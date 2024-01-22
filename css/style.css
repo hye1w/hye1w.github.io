@@ -1,0 +1,55 @@
+body {
+	background-color: #f4fcf5;
+	font-family: 'Noto Sans KR', sans-serif;	
+}
+
+.container-sm {
+	padding : 2rem;
+	background-color: #dbe6c9;
+}
+
+.link {
+	text-decoration: none;
+	color: #6c995e;
+}
+
+.link:hover {
+	color: #22391b;
+}
+
+.card-title {
+	margin-bottom: 0.7rem;
+}
+
+.card-text {
+	font-size: 0.9rem;
+}
+
+.card-text-now {
+	color : red;
+	font-size: 0.9rem;
+}
+
+.card-btn {
+	background-color: #d9e7c5;
+	font-weight: bold;
+	color: #22391b;
+}
+
+.card-btn:hover {
+	color:#22391b; 
+}
+
+.card-img-lo {
+	width: 67%;
+	place-self: center;
+}
+
+.modal-body{
+	overflow-y: initial;
+}
+
+.md-text {
+	height: 17rem;
+	overflow: auto;
+}
