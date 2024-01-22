@@ -5,12 +5,12 @@ body {
 
 .container-sm {
 	padding : 2rem;
-	background-color: #B0DAFF;
+	background-color: #C2E0FC;
 }
 
 .link {
 	text-decoration: none;
-	color: #A6D0F7;
+	color: #7AA6CF;
 }
 
 .link:hover {
@@ -31,7 +31,7 @@ body {
 }
 
 .card-btn {
-	background-color: #F0F8FF;
+	background-color: #C2E0FC;
 	font-weight: bold;
 	color: #1F3040;
 }
