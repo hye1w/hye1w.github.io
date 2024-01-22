@@ -1,20 +1,20 @@
 body {
-	background-color: #f4fcf5;
+	background-color: #F0F8FF;
 	font-family: 'Noto Sans KR', sans-serif;	
 }
 
 .container-sm {
 	padding : 2rem;
-	background-color: #dbe6c9;
+	background-color: #B0DAFF;
 }
 
 .link {
 	text-decoration: none;
-	color: #6c995e;
+	color: #A6D0F7;
 }
 
 .link:hover {
-	color: #22391b;
+	color: #1F3040;
 }
 
 .card-title {
@@ -31,13 +31,13 @@ body {
 }
 
 .card-btn {
-	background-color: #d9e7c5;
+	background-color: #F0F8FF;
 	font-weight: bold;
-	color: #22391b;
+	color: #1F3040;
 }
 
 .card-btn:hover {
-	color:#22391b; 
+	color:#1F3040; 
 }
 
 .card-img-lo {
